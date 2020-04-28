@@ -1,6 +1,3 @@
-**********************************************
-Files from main directory : D:\src_repo\svn\Newport\trunk\moonshot
-**********************************************
 D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\auth\login\login.component.html-----Welcome to the Moonshot. Please sign in to your account.
 D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\finance\purchase-invoice\purchase-invoice-batch-creation\purchase-invoice-batch-creation.component.html-----Newport Company
 D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\finance\purchase-invoice\purchase-invoice-cost-lines\purchase-invoice-cost-lines.component.html-----Show all costlines for job

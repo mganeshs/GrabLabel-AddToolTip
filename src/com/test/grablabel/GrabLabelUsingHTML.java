@@ -1,7 +1,9 @@
 package com.test.grablabel;
 
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -9,6 +11,8 @@ import java.nio.file.Paths;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
+import org.jsoup.parser.ParseSettings;
+import org.jsoup.parser.Parser;
 import org.jsoup.select.Elements;
 
 public class GrabLabelUsingHTML {
@@ -23,7 +27,10 @@ public class GrabLabelUsingHTML {
 	}
 	public void grabAndWrite(String fileName, String outputFolderName) throws IOException {
 		File input = new File(fileName);
+		ParseSettings ps = new ParseSettings(true, true);
+		
 		Document doc = Jsoup.parse(input, "UTF-8");
+		
 		Elements labels = doc.select("label");
 		for (Element label : labels) {
 			String labelText = label.text();
@@ -32,7 +39,7 @@ public class GrabLabelUsingHTML {
 				String tooltip = label.attr("ngbTooltip");
 				if ( tooltip.length() < 1) {
 					System.out.println(fileName + "-----" + labelText);
-					label.attr("ngbTooltip", labelText);
+					label.attr(ps.normalizeAttribute("HW"), labelText);
 					
 				}
 			}
@@ -58,7 +65,11 @@ public class GrabLabelUsingHTML {
 	}
 	public void grabLabelWithoutTooltip(String fileName,String outputFolderName) throws IOException {
 		File input = new File(fileName);
-		Document doc = Jsoup.parse(input, "UTF-8");
+		ParseSettings ps = ParseSettings.preserveCase;
+		Parser parser = Parser.htmlParser();
+		parser.settings(ps);
+		InputStream targetStream = new FileInputStream(input);
+		Document doc = Jsoup.parse(targetStream, "UTF-8","",parser);
 		Elements labels = doc.select("label");
 		for (Element label : labels) {
 			String labelText = label.text();
@@ -68,6 +79,9 @@ public class GrabLabelUsingHTML {
 				if ( tooltip.length() < 1) {
 					System.out.println(fileName + "-----" + labelText);
 					label.attr("ngbTooltip", labelText);
+					//placement="top" container="body" tooltipClass="normal"
+					label.attr("placement","top");label.attr("container","body");
+					label.attr("tooltipClass","normal");
 					writeToFile(doc.html(), fileName, outputFolderName);
 				}
 			}

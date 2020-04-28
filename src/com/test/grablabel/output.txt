@@ -1,0 +1,748 @@
+**********************************************
+Files from main directory : D:\src_repo\svn\Newport\trunk\moonshot
+**********************************************
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\auth\login\login.component.html-----Welcome to the Moonshot. Please sign in to your account.
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\finance\purchase-invoice\purchase-invoice-batch-creation\purchase-invoice-batch-creation.component.html-----Newport Company
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\finance\purchase-invoice\purchase-invoice-cost-lines\purchase-invoice-cost-lines.component.html-----Show all costlines for job
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\finance\purchase-invoice\purchase-invoice-detail\purchase-invoice-detail.component.html-----Invoice Ref (Vendor)
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\finance\purchase-invoice\purchase-invoice-detail\purchase-invoice-detail.component.html-----Invoice Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\finance\purchase-invoice\purchase-invoice-detail\purchase-invoice-detail.component.html-----Purchase Order Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\finance\purchase-invoice\purchase-invoice-detail\purchase-invoice-detail.component.html-----Invoice Attachment
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\finance\purchase-invoice\purchase-invoice-detail\purchase-invoice-detail.component.html-----Related Purchase Invoice
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\finance\purchase-invoice\purchase-invoice-detail\purchase-invoice-detail.component.html-----Invoice Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\finance\purchase-invoice\purchase-invoice-detail\purchase-invoice-detail.component.html-----Gross Amount
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\finance\purchase-invoice\purchase-invoice-detail\purchase-invoice-detail.component.html-----Purchase Invoice Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\finance\purchase-invoice\purchase-invoice-detail\purchase-invoice-detail.component.html-----Cost Mapping
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\finance\purchase-invoice\purchase-invoice-detail\purchase-invoice-detail.component.html-----Allocated Amount
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\finance\purchase-invoice\purchase-invoice-detail\purchase-invoice-detail.component.html-----Balance Amount
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\finance\purchase-invoice\purchase-invoice-list\purchase-invoice-list.component.html-----Newport Company
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\depot\depot-detail\depot-detail.component.html-----General Details
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\depot\depot-detail\depot-detail.component.html-----Depot Location (G6 Code) call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\depot\depot-detail\depot-detail.component.html-----Cleaning Capability
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\depot\depot-detail\depot-detail.component.html-----Address : House No/Street
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\depot\depot-detail\depot-detail.component.html-----Address Addition
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\depot\depot-detail\depot-detail.component.html-----Zipcode/City
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\depot\depot-detail\depot-detail.component.html-----G3 - Country
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\depot\depot-detail\depot-detail.component.html-----Company Responsible
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\depot\depot-detail\depot-detail.component.html-----Contact Detail
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\depot\depot-detail\depot-detail.component.html-----Audit Report
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\depot\depot-detail\depot-detail.component.html-----Location Activity/Other Info
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\depot\depot-detail\depot-detail.component.html-----Non-Conformances
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\depot\depot-detail\depot-detail.component.html-----Contact Detail
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-additional-detail\equipment-update-contract\equipment-update-contract.component.html-----Contract Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----General Info
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Equipment Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----ISO Tank Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Original Unit Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Alternate Unit Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Equipment Owner
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Operational Status
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Internal Tank Hire Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Manufacturer
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Manufacturer Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Lease-In Contract
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Lease-Out Contract
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Testing keyboard_arrow_down keyboard_arrow_up
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Next Test Date/Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----CSC Due Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----2.5 Years Due Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----5 Years Due Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Test Completion Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Test Location call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Certificate Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Equipment Release
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Authorization Sent
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Select Previous Test Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----2.5 Years Due Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----5 Years Due Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Test Completion Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Test Location call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Certificate Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Equipment Release
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Authorization Sent
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Test Updated By On Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Technical Details keyboard_arrow_down keyboard_arrow_up
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Max Gross Weight
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Stacking Weight
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----TOTAL CAPACITY
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Measured (Liters)
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Cubic Feet (ft3)
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Cubic Meters (m3)
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Load-Discharge Options
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Walkway Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Steam Heating
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Steam Surface Area (sqm)
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Design Min Temp
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Design Max Temp
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Unit Working
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Steam Tube Working
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Steam Tube Test
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Relief Valves Pressure
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Relief Valves Vacuum
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Shell Material
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Insulation Shell
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Insulation Heads
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Drawing Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Technical Data Sheet
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----On-Hire & Off-Hire keyboard_arrow_down keyboard_arrow_up
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----On-Hire Location call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Actual On-Hire Cost
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----On-Hire Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Actual Off-Hire Cost
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Off-Hire Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Off-Hire Reason
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment\equipment-detail\equipment-detail.component.html-----Planned Off-Hire Locations
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment-condition-master\equipment-condition-master-detail\equipment-condition-master-detail.component.html-----Number of Values
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment-condition-master\equipment-condition-master-detail\equipment-condition-master-detail.component.html-----Default Value
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\equipment-condition-master\equipment-condition-master-detail\equipment-condition-master-detail.component.html-----Applicable Unit List
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\estimate-approval\estimate-approval-detail\estimate-approval-detail.component.html-----Fleet Job Id
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\estimate-approval\estimate-approval-detail\estimate-approval-detail.component.html-----Tank Number call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\estimate-approval\estimate-approval-detail\estimate-approval-detail.component.html-----Vendor call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\estimate-approval\estimate-approval-detail\estimate-approval-detail.component.html-----Vendor Estimate ID
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\estimate-approval\estimate-approval-detail\estimate-approval-detail.component.html-----Estimate Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\estimate-approval\estimate-approval-detail\estimate-approval-detail.component.html-----Planned MTAV Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\estimate-approval\estimate-approval-detail\estimate-approval-detail.component.html-----Repair Location call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\estimate-approval\estimate-approval-detail\estimate-approval-detail.component.html-----Depot call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\estimate-approval\estimate-approval-detail\estimate-approval-detail.component.html-----Timeline call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\estimate-approval\estimate-approval-detail\estimate-approval-detail.component.html-----Equipment Details
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\estimate-approval\estimate-approval-detail\estimate-approval-detail.component.html-----Equipment Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\estimate-approval\estimate-approval-detail\estimate-approval-detail.component.html-----Discharge Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\estimate-approval\estimate-approval-detail\estimate-approval-detail.component.html-----Next Test Date/Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\estimate-approval\estimate-approval-detail\estimate-approval-detail.component.html-----Latest Test Certificate
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\estimate-approval\estimate-approval-detail\estimate-approval-detail.component.html-----Equipment Operator
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----General Info
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Lessor call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Contract Reference/Currency
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Parent Contract call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Leasee call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Contract/Lease Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Periodic Test Payee
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Option To Buy
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Previous Contracts call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Valid From/To
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Lease Term(Days)
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Free/Termination Days
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Redelivery Limit Per Month
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Early Return Fee/Lease
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Number Of Addendums/Units
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Created By - On Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Last Edited By - On Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----On-Hire & Off-Hire
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Fixed On-Hire Fee
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Handling In Fee
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----On-Hire Locations
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Fixed Off-Hire Fee
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Handling Out Fee
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\financial-lease\financial-lease-detail\financial-lease-detail.component.html-----Off-Hire Locations
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Chemical Name
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Customer/Shipper/Trader
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Reason For Status Change
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Manufacturer
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Manufacturer Location
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----MSDS Version/Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Solid At Temp °C
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Liquid At Temp °C
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Gas At Temp °C
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----pH Value From/To
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Melting Point From/To °C
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Freezing Point From/To °C
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Boiling Point From/To °C
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Vapour Pressure hPa
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Specific Gravity g/cm3
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Solubility (ies)
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Filling Temp From/To °C
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Max Cont Temp °C
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Packing Group
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Marine Pollutant
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Packing Group
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Environmentally Hazardous
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Packing Group
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Environmentally Hazardous
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----UN Number Applicable
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Packing Group
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Packing Group
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Packing Group
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Packing Group
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Packing Group
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product\product-detail\product-detail.component.html-----Int'l HS Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product-request\product-request-detail\product-request-detail.component.html-----Request User
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product-request\product-request-detail\product-request-detail.component.html-----Request Handler
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product-request\product-request-detail\product-request-detail.component.html-----Quote Number call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product-request\product-request-detail\product-request-detail.component.html-----Customer Classification
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product-request\product-request-detail\product-request-detail.component.html-----Created By - On Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product-request\product-request-detail\product-request-detail.component.html-----Last Edited By - On Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product-request\product-request-detail\product-request-detail.component.html-----Reason For Decline
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product-request\product-request-detail\product-request-detail.component.html-----Reason For Providing Late
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product-request\product-request-detail\product-request-detail.component.html-----Product Details
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product-request\product-request-detail\product-request-detail.component.html-----Product Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product-request\product-request-detail\product-request-detail.component.html-----Specific Gravity g/cm3
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\product-request\product-request-detail\product-request-detail.component.html-----Int'l HS Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\time-line\time-line-add-cost\time-line-add-cost.component.html-----Vendor Code/Name
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\time-line\time-line-add-cost\time-line-add-cost.component.html-----Estimation Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\time-line\time-line-add-cost\time-line-add-cost.component.html-----Invoice Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\fleet\time-line\time-line-add-cost\time-line-add-cost.component.html-----Calculation Method
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\agent-customer\agent-customer-detail\agent-customer-detail.component.html-----Customer Name
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\bulk-upload\bulk-upload-attachment\bulk-upload-attachment.component.html-----Upload Corrected File
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\bulk-upload\bulk-upload-detail.component.html-----Uploaded File
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\bulk-upload\bulk-upload-detail.component.html-----Download Error Log
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\bulk-upload\bulk-upload-detail.component.html-----Upload/Update
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\bulk-upload\bulk-upload-detail.component.html-----Created Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\communication\communication-detail.component.html-----Communication Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\company\company-detail\company-commodity\company-commodity.component.html-----Financial Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\company\company-detail\company-detail.component.html-----Company Details
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\company\company-detail\company-detail.component.html-----Company Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\company\company-detail\company-detail.component.html-----Company Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\company\company-detail\company-detail.component.html-----Created By - On Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\company\company-detail\company-detail.component.html-----Last Edited By - On Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\company\company-detail\company-detail.component.html-----Address Addition
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\company\company-detail\company-detail.component.html-----Zipcode/City
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\company\company-detail\company-detail.component.html-----Symbol For Decimal
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\company\company-detail\company-detail.component.html-----Financial Details
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\company\company-detail\company-detail.component.html-----Financial Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\company\company-detail\company-detail.component.html-----Financial Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\company\company-detail\company-detail.component.html-----Financial Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----General Details
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----Tender Customer
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----Payment Terms
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----Amount Invoiced
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----Amount To Be Paid
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----Customer Status
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----Address Addition
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----Zipcode/City
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----Created By On Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----Modified By On Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----PRE DEMURRAGE TERMS
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----Spot Free Days
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----Tender Free Days
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----Daily Spot Rate/Currency
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----Daily Tender Rate/Currency
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----DEMURRAGE TERMS
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----Spot Free Days
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----Tender Free Days
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----Daily Spot Rate/Currency
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----Daily Tender Rate/Currency
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----INVOICE PREFERENCE
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----Invoice Preference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----Invoice Method
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\customer\customer-detail\customer-detail.component.html-----Additional Charge Markup %
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\extended-fields-meta-info\extended-fields-meta-info-detail.component.html-----Field Length
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\extended-fields-meta-info\extended-fields-meta-info-detail.component.html-----Is Deprecated
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\extended-fields-meta-info\extended-fields-meta-info-detail.component.html-----Default Value
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\general-setting\general-setting.component.html-----Product Request
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\general-setting\general-setting.component.html-----Estimate Approval
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\general-setting\general-setting.component.html-----Relation Vendor Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\general-setting\general-setting.component.html-----Base Currency
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\general-setting\general-setting.component.html-----General Email
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\general-setting\general-setting.component.html-----General Sender Info
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\general-setting\general-setting.component.html-----Allowed Job Profit
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\general-setting\general-setting.component.html-----Allowed Charge
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\general-setting\general-setting.component.html-----Allowed Order Template Profit
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\general-setting\general-setting.component.html-----Closed Buffer
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\general-setting\general-setting.component.html-----Auto Close Cost Lines
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\general-setting\general-setting.component.html-----Demurrage Billing Cost Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\general-setting\general-setting.component.html-----Demurrage Billing Cost Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\general-setting\general-setting.component.html-----Lease Billing Cost Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\general-setting\general-setting.component.html-----Lease Billing Cost Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\general-setting\general-setting.component.html-----Invoice Batch
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\itemcode\itemcode-detail.component.html-----Applicable For
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\itemcode\itemcode-detail.component.html-----Contract Activity
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\itemcode\itemcode-detail.component.html-----Ledger Charge
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\itemcode\itemcode-detail.component.html-----Copy Cost to Job Template
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\location\location-detail.component.html-----Location Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\location\location-detail.component.html-----Location Name
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\location\location-detail.component.html-----Location Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\location\location-detail.component.html-----Opening Hours From/To
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\location\location-detail.component.html-----Address: House No/Street
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\location\location-detail.component.html-----Address Addition
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\location\location-detail.component.html-----Zipcode/City
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\location\location-detail.component.html-----GEO Location
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\non-conformance\non-conformance-detail.component.html-----Non Conformance Id
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\non-conformance\non-conformance-detail.component.html-----Order Loading Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\non-conformance\non-conformance-detail.component.html-----Order Customer Ref
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\non-conformance\non-conformance-detail.component.html-----Raised By/Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\non-conformance\non-conformance-detail.component.html-----Closed By/Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\non-conformance\non-conformance-detail.component.html-----Location of Incident call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\non-conformance\non-conformance-detail.component.html-----Date of Incident
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\non-conformance\non-conformance-detail.component.html-----Incident Detail
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\non-conformance\non-conformance-detail.component.html-----Reason Investigated
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\non-conformance\non-conformance-detail.component.html-----Corrective Action
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\non-conformance\non-conformance-detail.component.html-----Preventive Action
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\non-conformance\non-conformance-detail.component.html-----Follow Up By
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\non-conformance\non-conformance-detail.component.html-----Follow Up Deadline Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\non-conformance\non-conformance-detail.component.html-----Follow Up Detail
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\relation\relation-detail\communication-rule\communication-rule-detail\communication-rule-detail.component.html-----Information Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\relation\relation-detail\communication-rule\communication-rule-detail\communication-rule-detail.component.html-----Primary Contact
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\relation\relation-detail\communication-rule\communication-rule-detail\communication-rule-detail.component.html-----Alternate Relation
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\relation\relation-detail\contact\contact-detail\contact-detail.component.html-----Contact Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\relation\relation-detail\relation-detail.component.html-----Address Addition
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\relation\relation-detail\relation-detail.component.html-----Zipcode/City
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\relation\relation-detail\relation-detail.component.html-----Relation Types
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\relation\relation-detail\relation-detail.component.html-----Created By - On Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\relation\relation-detail\relation-detail.component.html-----Last Edited By - On Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\relation\relation-detail\relation-detail.component.html-----Replaced Document
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\relation\relation-detail\relation-detail.component.html-----Customer Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\relation\relation-detail\relation-detail.component.html-----VAT Registered
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\relation\relation-detail\relation-detail.component.html-----Payment Condition
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\service\service-detail.component.html-----Main/Combined
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\service\service-detail.component.html-----Optional Service
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\service\service-detail.component.html-----Manual Service
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\service\service-detail.component.html-----Location/Lane
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\service\service-detail.component.html-----Related Main Service
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\service\service-detail.component.html-----Service Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\service\service-detail.component.html-----Service Name
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\service\service-detail.component.html-----Select Contract Activity
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\service\service-detail.component.html-----NP Companies
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\service\service-detail.component.html-----Service Usage
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\unembargo\unembargo-detail.component.html-----UN Embargo ID
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\unembargo\unembargo-detail.component.html-----Valid From/To
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\unembargo\unembargo-detail.component.html-----Embargo Location
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\unembargo\unembargo-detail.component.html-----G4 - City/Town
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\unembargo\unembargo-detail.component.html-----G3 - Country/State
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\unembargo\unembargo-detail.component.html-----G1 - Continent
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\vatcode\vatcode-detail.component.html-----Company Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\vendor\vendor-detail\vendor-detail.component.html-----Payment Condition
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\vendor\vendor-detail\vendor-detail.component.html-----Schedule Website
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\vendor\vendor-detail\vendor-detail.component.html-----Quality Certified
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\vendor\vendor-detail\vendor-detail.component.html-----Payment Terms
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\vendor\vendor-detail\vendor-detail.component.html-----Address Addition
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\vendor\vendor-detail\vendor-detail.component.html-----Zipcode/City
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\masterdata\vendor\vendor-detail\vendor-detail.component.html-----Vendor Owner
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-detail.component.html-----Update Job Template
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Sailing From
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Prepaid/Collect
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Instruction Received
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Draft Approved
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Final Printed
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Original Surrender
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Instruction Sent
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Draft Received
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Draft Approved
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Final Received
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Original Surrender
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Place of Receipt
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Port of Loading
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Port of Discharge
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Place of Delivery
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Actual B/L Name call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Actual B/L Name call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Actual B/L Name call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Actual B/L Name call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Product Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Chemical Name
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Actual B/L Name call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Actual B/L Name call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Actual B/L Name call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-general\bol-general.component.html-----Update Job Template
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-reference\bol-reference.component.html-----Customer Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-reference\bol-reference.component.html-----Loading Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-reference\bol-reference.component.html-----Customer Reference 2
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-reference\bol-reference.component.html-----Discharge Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-reference\bol-reference.component.html-----Add Separate Body Per Tank
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-reference\bol-reference.component.html-----Update Job Template
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\bol-term\bol-term.component.html-----Update Job Template
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\unit-specification-grid\unit-specification-grid.component.html-----Include Total Weight
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\unit-specification-grid\unit-specification-grid.component.html-----Include Tare Weight
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\unit-specification-grid\unit-specification-grid.component.html-----Include Product Volume
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol\bol-detail\unit-specification-grid\unit-specification-grid.component.html-----Update Job Template
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol-address\bol-address-detail\bol-address-detail.component.html-----Default Contact
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol-address\bol-address.component.html-----Search Address
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol-address\bol-address.component.html-----Update Job Template
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\bol-document-name\bol-document-name-detail.component.html-----Default Name
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\edi\edi-detail\edi-detail.component.html-----Time Frame In HRS
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\job-template\job-template-detail\job-template-detail.component.html-----Update Job Template
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-documents\operation-documents-detail\operation-documents-detail.component.html-----Contact Name
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-documents\operation-documents-detail\operation-documents-detail.component.html-----Generation Status
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-documents\operation-documents-history\operation-documents-history.component.html-----Vendor/Customer
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-documents\operation-documents-new\operation-documents-new.component.html-----Documents For
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\job-profit-detail\job-profit-detail.component.html-----Job call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\job-profit-detail\job-profit-detail.component.html-----Job Template call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\job-profit-detail\job-profit-detail.component.html-----Customer call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\job-profit-detail\job-profit-detail.component.html-----Ops Close Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\job-profit-detail\job-profit-detail.component.html-----COST MAPPING
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\job-profit-detail\job-profit-deviation-reason\job-profit-deviation-reason.component.html-----Updated Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-consignment\operation-consignment.component.html-----Update Job Template
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\documents-milestones\documents-milestones.component.html-----Update Job Template
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-consignment-details\job-consignment-details.component.html-----CONSIGNMENT DETAIL [ ]
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-demurage\job-demurage.component.html-----PRE-DEMURRAGE
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-demurage\job-demurage.component.html-----Billing Party
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-demurage\job-demurage.component.html-----Group Preference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-demurage\job-demurage.component.html-----Other Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-demurage\job-demurage.component.html-----Charge Cycle
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-demurage\job-demurage.component.html-----Show Detail call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-demurage\job-demurage.component.html-----Billing Party
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-demurage\job-demurage.component.html-----Group Preference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-demurage\job-demurage.component.html-----Other Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-demurage\job-demurage.component.html-----Charge Cycle
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-demurage\job-demurage.component.html-----Charge Pre-Demurrage/Demurrage call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-demurage\job-demurage.component.html-----Update Job Template
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-equipment-specification\job-equipment-specification.component.html-----Equipment call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-equipment-specification\job-equipment-specification.component.html-----Allocation Status
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-equipment-specification\job-equipment-specification.component.html-----Next Test Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-equipment-specification\job-equipment-specification.component.html-----Operational Status
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-equipment-specification\job-equipment-specification.component.html-----Fleet Status
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-equipment-specification\job-equipment-specification.component.html-----Tare Weight (Kg)
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-equipment-specification\job-equipment-specification.component.html-----SPECIFICATION
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-equipment-specification\job-equipment-specification.component.html-----Discharge Position
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-equipment-specification\job-equipment-specification.component.html-----Equipment Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-equipment-specification\job-equipment-specification.component.html-----Equipment Owner
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-equipment-specification\job-equipment-specification.component.html-----Internal Tank Hire Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-equipment-specification\job-equipment-specification.component.html-----Lease-Out Contract
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-forward\job-forward.component.html-----Export Company
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-forward\job-forward.component.html-----Import Company
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-forward\job-forward.component.html-----Update Job Template
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-general\job-general.component.html-----Delivery Term
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-general\job-general.component.html-----Job Template
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-general\job-general.component.html-----Created By/Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-loading-place\job-loading-place.component.html-----LOADING PLACE
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-loading-place\job-loading-place.component.html-----Loading Place call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-loading-place\job-loading-place.component.html-----G4-City/Town
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-loading-place\job-loading-place.component.html-----Time From/To
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-loading-place\job-loading-place.component.html-----DISCHARGE PLACE
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-loading-place\job-loading-place.component.html-----Discharge Place call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-loading-place\job-loading-place.component.html-----G4-City/Town
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-loading-place\job-loading-place.component.html-----Time From/To
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-product\job-product.component.html-----Chemical Name
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\job-detail\job-product\job-product.component.html-----Hazardous Class
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\billable-non-billable\billable-non-billable.component.html-----Type Of Change
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\billable-non-billable\billable-non-billable.component.html-----Service Name
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\billable-non-billable\billable-non-billable.component.html-----Last Updated By/On
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\billable-non-billable\billable-non-billable.component.html-----Cause For Non Billable
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\billable-non-billable\billable-non-billable.component.html-----Reason For Non Billable
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-chargeline\job-chargeline.component.html-----Billing Account
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-chargeline\job-chargeline.component.html-----Charge Description
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-chargeline\job-chargeline.component.html-----Alternate Charge Description
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-chargeline\job-chargeline.component.html-----Invoice Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-chargeline\job-chargeline.component.html-----Invoice Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-chargeline\job-chargeline.component.html-----Invoice Preference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-chargeline\job-chargeline.component.html-----Group Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-chargeline\job-chargeline.component.html-----Invoice Reference Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-chargeline\job-chargeline.component.html-----Invoice Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-chargeline\job-chargeline.component.html-----Charge Currency
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-chargeline\job-chargeline.component.html-----Invoice Currency
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-chargeline\job-chargeline.component.html-----Charge Amount
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-chargeline\job-chargeline.component.html-----Calculation Method
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-chargeline\job-chargeline.component.html-----Number of Units
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-chargeline\job-chargeline.component.html-----Charge Detail
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-chargeline\job-chargeline.component.html-----Internal Detail
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-cost-detail\job-cost-detail.component.html-----Service PO Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-cost-detail\job-cost-detail.component.html-----Creation Date/Time
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-cost-detail\job-cost-detail.component.html-----Purchase Invoice Number call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-cost-detail\job-cost-detail.component.html-----Job No call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-cost-detail\job-cost-detail.component.html-----Rate ID call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-cost-detail\job-cost-detail.component.html-----Creation User
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Lloyd's Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Booking Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Bill Of Lading Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Cutoff Date/Time
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----VGM Close Date/Time
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----DOC Close Date/Time
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Booking Contact
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----First Day Receival Terminal Date/Time
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Release Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Customs File Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Last Free Day Import Date/Time
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Operating Vendor
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Contract Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Arrival Notice
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Short Shipment
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Shipping Line
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Booking Contact
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Lloyd's Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Booking Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Bill Of Lading Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Cutoff Date/Time
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----VGM Close Date/Time
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----AMS Close Date/Time
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Shipping Line
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Booking Contact
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Lloyd's Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Booking Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Bill Of Lading Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Cutoff Date/Time
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----VGM Close Date/Time
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----AMS Close Date/Time
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Operating Vendor
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Contract Activity
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Customer/Agent Name
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Pickup Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Drop Off Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----License Plate
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Truck ADR Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Customs File Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Operating Vendor
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Contract Activity
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Customer/Agent Name
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Booking Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Pickup Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Drop Off Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Cutoff Date/Time
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Document Close Date/Time
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Customs File Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Pickup Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Discharge Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Release Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Customs File Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Tank Allocation Requirements
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Equipment Specification
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Discharge Position
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Capacity Min Litres
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Capacity Max Litres
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Internal Service Requirements
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Save as Logistic Rule
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Customer Service Requirements
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Save as Logistic Rule
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Vendor Service Requirements
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Save as Logistic Rule
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-notes-activity-service-requirement\job-notes-activity-service-requirement.component.html-----Additional Notes
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-service-detail\job-service-detail.component.html-----Service PO Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-service-detail\job-service-detail.component.html-----Purchase Invoice Number call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-service-detail\job-service-detail.component.html-----Creation Date/Time
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\operation-job-details\operation-job-route-detail\job-service-detail\job-service-detail.component.html-----Creation User
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\order-detail\order-detail.component.html-----Quote Detail
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\order-detail\order-detail.component.html-----Job Template
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\order-detail\order-detail.component.html-----Delivery Term
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\order-detail\order-detail.component.html-----Loading Location
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\order-detail\order-detail.component.html-----Loading Location
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\order-detail\order-detail.component.html-----Port Of Loading
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\order-detail\order-detail.component.html-----Port Of Loading
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\order-detail\order-detail.component.html-----Port Of Discharge
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\order-detail\order-detail.component.html-----Port Of Discharge
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\order-detail\order-detail.component.html-----Discharge Location
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\order-detail\order-detail.component.html-----Discharge Location
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\order-detail\order-detail.component.html-----Number of Tanks
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\order-detail\order-detail.component.html-----Search Vessel On
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\order-detail\order-detail.component.html-----Loading Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\vessel-selection\vessel-selection.component.html-----Preferred Vendor Select Specific Vendor lock VTD Vendor
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\vessel-selection\vessel-selection.component.html-----Vessel Detail
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\vessel-selection\vessel-selection.component.html-----Selected Vessel
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\vessel-selection\vessel-selection.component.html-----Voyage Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-job\operation-job-detail\vessel-selection\vessel-selection.component.html-----Physical Closing
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\operation\operation-milestones\operation-milestones-detail\operation-milestones-detail.component.html-----Update Job Template
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\lane\update-staggered\update-staggered.component.html-----Bulk Update Reference Name
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\lane-rate-bulk\lane-rate-bulk.component.html-----Bulk Update Reference Name
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\lane-rate-bulk\lane-rate-bulk.component.html-----Update Rate By
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\lane-rate-bulk\lane-rate-bulk.component.html-----Extend Validity By
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\lane-rate-bulk\lane-rate-bulk.component.html-----Valid From/To
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\location-rate-bulk\location-rate-bulk.component.html-----Bulk Update Reference Name
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\location-rate-bulk\location-rate-bulk.component.html-----Update Rate By
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\location-rate-bulk\location-rate-bulk.component.html-----Extend Validity By
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\location-rate-bulk\location-rate-bulk.component.html-----Valid From/To
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Rate Applicable From
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Rate Created By On Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Last Edited By On Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Capacity Agreement Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Capacity/Period
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Contract Activity
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Door Address call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----G4 - City/Town
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----G3 - Country/State
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----G1 - Continent
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Door Address call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----G4 - City/Town
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----G3 - Country/State
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----G1 - Continent
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Door Address call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----G4 - City/Town
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----G3 - Country/State
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----G1 - Continent
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Door Address call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----G4 - City/Town
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----G3 - Country/State
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----G1 - Continent
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Door Address call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----G4 - City/Town
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----G3 - Country/State
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----G1 - Continent
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Transport Distance
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Estimated Transit Time
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Change In Transport Mode
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Cost And Validity
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Amount/Currency
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Cost Object Per
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Tanks In Chassis
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Spot Contract
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Indication Rate
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Miscellaneous
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Other Invoicing/Operating Vendor
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Vendor Contract Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Internal Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----THC Included At Origin
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Ocean Freight
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----THC Included At Destination
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Invoicing Vendor
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Operating Vendor
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Trans-shipment Port
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\rate-detail\rate-detail.component.html-----Procurement Comments
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\sub-rate\sub-rate-detail\sub-rate-detail.component.html-----Subrate Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\sub-rate\sub-rate-detail\sub-rate-detail.component.html-----Cost Object Per
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate\sub-rate\sub-rate-detail\sub-rate-detail.component.html-----Calculation-Method
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-condition-master\rate-condition-master-detail.component.html-----Condition Name
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-condition-master\rate-condition-master-detail.component.html-----Contract Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-condition-master\rate-condition-master-detail.component.html-----Applied Contract Activity
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-condition-master\rate-condition-master-detail.component.html-----Number of Values
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-condition-master\rate-condition-master-detail.component.html-----Default Condition
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-condition-master\rate-condition-master-detail.component.html-----Default Value
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-condition-master\rate-condition-master-detail.component.html-----Applicable Unit List
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-constraint\rate-constraint.component.html-----Quote Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-constraint\rate-constraint.component.html-----Customer Only
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-constraint\rate-constraint.component.html-----Weight From/To (KG)
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-constraint\rate-constraint.component.html-----Equipment Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-constraint\rate-constraint.component.html-----Include/Exclude
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-constraint\rate-constraint.component.html-----Product Code call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-constraint\rate-constraint.component.html-----Hazardous Class
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Procurement Office
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Quotation No.
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Preferred Validity
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Request Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Delivery Term
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Previous Rate
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Confirmed Business
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Reason For Decline
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Reason For Providing Late
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Contract Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Max Transit Time
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Contract Activity
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Contract Service
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Preferred Vendor
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Door Address
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----G4 - City/Town
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----G3 - Country/State
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----G1 - Continent
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Door Address
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----G4 - City/Town
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----G3 - Country/State
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----G1 - Continent
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Door Address
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----G4 - City/Town
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----G3 - Country/State
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----G1 - Continent
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Door Address
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----G4 - City/Town
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----G3 - Country/State
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----G1 - Continent
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Door Address
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----G4 - City/Town
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----G3 - Country/State
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----G1 - Continent
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Product Information
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Product Code
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Chemical Name
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----IMO Classified
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\rate-request\rate-request-detail\rate-request-detail.component.html-----Hazardous Class
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\staggered-rate\lane-update-detail\lane-update-detail.component.html-----Bulk Update Reference Name
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\staggered-rate\lane-update-detail\lane-update-detail.component.html-----Lane Created From
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\staggered-rate\staggered-rate-detail\staggered-rate-detail.component.html-----Applicable GCodes
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\procurement\staggered-rate\staggered-rate-detail\staggered-rate-detail.component.html-----Rate per unit beyond last staffle line
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\logistic-rule\logistic-rule-detail\logistic-rule-detail.component.html-----Requirement Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\logistic-rule\logistic-rule-detail\logistic-rule-detail.component.html-----Contract Activity
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\logistic-rule\logistic-rule-detail\logistic-rule-detail.component.html-----Requirement Description
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\activity-service-requirement\activity-service-requirement-add-rule\activity-service-requirement-add-rule.component.html-----Save as Logistic Rule
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\activity-service-requirement\activity-service-requirement.component.html-----Tank Allocation Requirements
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\activity-service-requirement\activity-service-requirement.component.html-----Equipment Specification
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\activity-service-requirement\activity-service-requirement.component.html-----Discharge Position
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\activity-service-requirement\activity-service-requirement.component.html-----Capacity Min Litres
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\activity-service-requirement\activity-service-requirement.component.html-----Capacity Max Litres
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\activity-service-requirement\activity-service-requirement.component.html-----Internal Service Requirements
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\activity-service-requirement\activity-service-requirement.component.html-----Customer Service Requirements
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\activity-service-requirement\activity-service-requirement.component.html-----Vendor Service Requirements
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\activity-service-requirement\activity-service-requirement.component.html-----Additional Notes
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\chargeline\chargeline.component.html-----Billing Account
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\chargeline\chargeline.component.html-----Charge Description
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\chargeline\chargeline.component.html-----Alternate Charge Description
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\chargeline\chargeline.component.html-----Invoice Preference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\chargeline\chargeline.component.html-----Group Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\chargeline\chargeline.component.html-----Invoice Reference Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\chargeline\chargeline.component.html-----Invoice Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\chargeline\chargeline.component.html-----Charge Currency
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\chargeline\chargeline.component.html-----Invoice Currency
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\chargeline\chargeline.component.html-----Charge Amount
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\chargeline\chargeline.component.html-----Calculation Method
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\chargeline\chargeline.component.html-----Number of Units
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\chargeline\chargeline.component.html-----Charge Detail
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-customize\chargeline\chargeline.component.html-----Internal Detail
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Closed By/Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Reason For Close
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Customer/Agent Status
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Customer For Agent
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Delivery Term
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Quote Validity (From/To)
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Number Of Loads
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----THC Included At Origin
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----THC Included At Destination
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Ocean Freight Included
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Created By - On Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Last Edited By - On Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----NewPort Company
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Quote Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Previous Quote Number
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Commercial Responsible
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Inside Sales Representative
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Quote Group Reference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Chemical Name
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Product Status
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Hazardous Class
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Non-Registered Product
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Specific Gravity
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Quoted Weight
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Quoted Volume
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Cleaning Group
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Pre-Demurrage
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Currency/Daily Rate
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Currency/Daily Rate
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Loading Place
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Loading Place call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----G4 - City/Town
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Loading Hours
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Drop & Collect
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Discharge Place
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Discharge Place call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----G4 - City/Town
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Discharge Hours
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Drop & Collect
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Port Of Loading
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Port Of Loading call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----G4 - City/Town
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Port Of Discharge
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Port Of Discharge call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----G4 - City/Town
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Start Location
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Location call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----G4 - City/Town
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----End Location
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Location call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----G4 - City/Town
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Equipment Specification
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Equipment Owner
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Internal Tank Hire Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Lease-Out Contract call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Equipment Type
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Discharge Position
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote\quote-detail\quote-detail-header\quote-detail-header.component.html-----Capacity Min/Max Liters
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote-request\quote-request-detail\quote-request-detail.component.html-----Customer Classification
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote-request\quote-request-detail\quote-request-detail.component.html-----Request Source
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote-request\quote-request-detail\quote-request-detail.component.html-----Request Source Info
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote-request\quote-request-detail\quote-request-detail.component.html-----Job Template Id
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote-request\quote-request-detail\quote-request-detail.component.html-----Delivery Term
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote-request\quote-request-detail\quote-request-detail.component.html-----Sales Office
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote-request\quote-request-detail\quote-request-detail.component.html-----Created By On Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote-request\quote-request-detail\quote-request-detail.component.html-----Modified By On Date
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\sales\quote-request\quote-request-detail\quote-request-detail.component.html-----Request Detail
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\widget\vs-comment\vs-comment.component.html-----deleteDelete
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\widget\vs-rt-grid\vs-rt-grid-row\vs-rt-grid-job-row-detail\vs-rt-grid-job-row-detail.component.html-----From call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\widget\vs-rt-grid\vs-rt-grid-row\vs-rt-grid-job-row-detail\vs-rt-grid-job-row-detail.component.html-----To call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\widget\vs-rt-grid\vs-rt-grid-row\vs-rt-grid-job-row-detail\vs-rt-grid-job-row-detail.component.html-----Transport Stage
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\widget\vs-rt-grid\vs-rt-grid-row\vs-rt-grid-job-row-detail\vs-rt-grid-job-row-detail.component.html-----Transit Time
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\widget\vs-rt-grid\vs-rt-grid-row\vs-rt-grid-job-row-detail\vs-rt-grid-job-row-detail.component.html-----Location call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\widget\vs-rt-grid\vs-rt-grid-row\vs-rt-grid-job-row-detail\vs-rt-grid-job-row-detail.component.html-----Mid1 call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\widget\vs-rt-grid\vs-rt-grid-row\vs-rt-grid-job-row-detail\vs-rt-grid-job-row-detail.component.html-----Mid2 call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\widget\vs-rt-grid\vs-rt-grid-row\vs-rt-grid-job-row-detail\vs-rt-grid-job-row-detail.component.html-----Mid3 call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\widget\vs-rt-grid\vs-rt-grid-row\vs-rt-grid-row-detail\vs-rt-grid-row-detail.component.html-----From call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\widget\vs-rt-grid\vs-rt-grid-row\vs-rt-grid-row-detail\vs-rt-grid-row-detail.component.html-----To call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\widget\vs-rt-grid\vs-rt-grid-row\vs-rt-grid-row-detail\vs-rt-grid-row-detail.component.html-----Transit Time
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\widget\vs-rt-grid\vs-rt-grid-row\vs-rt-grid-row-detail\vs-rt-grid-row-detail.component.html-----Location call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\widget\vs-rt-grid\vs-rt-grid-row\vs-rt-grid-row-detail\vs-rt-grid-row-detail.component.html-----Mid1 call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\widget\vs-rt-grid\vs-rt-grid-row\vs-rt-grid-row-detail\vs-rt-grid-row-detail.component.html-----Mid2 call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\widget\vs-rt-grid\vs-rt-grid-row\vs-rt-grid-row-detail\vs-rt-grid-row-detail.component.html-----Mid3 call_made
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\widget\vs-rt-grid\vs-rt-grid-row\vs-rt-grid-row-pre-demurrage-detail\vs-rt-grid-row-pre-demurrage-detail.component.html-----Billing Account
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\widget\vs-rt-grid\vs-rt-grid-row\vs-rt-grid-row-pre-demurrage-detail\vs-rt-grid-row-pre-demurrage-detail.component.html-----Invoice Preference
+D:\src_repo\svn\Newport\trunk\moonshot\1.0\frontend\src\app\widget\vs-upload\vs-upload-fileinputs\vs-upload-fileinputs.component.html-----Document Type

@@ -87,7 +87,7 @@ public class GrabLabelUsingHTML {
 					label.attr("tooltipClass","normal");
 					OutputSettings os = new OutputSettings();
 					os.prettyPrint(true);
-					
+					os.outline(true);
 					os.syntax(Syntax.html);
 					os.indentAmount(4);
 					doc.outputSettings(os);

@@ -88,6 +88,7 @@ public class GrabLabelUsingHTML {
 					OutputSettings os = new OutputSettings();
 					os.prettyPrint(true);
 					os.syntax(Syntax.html);
+					os.indentAmount(4);
 					doc.outputSettings(os);
 					
 					writeToFile(doc.body().html(), fileName, outputFolderName);

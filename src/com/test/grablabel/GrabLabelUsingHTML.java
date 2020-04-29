@@ -10,6 +10,8 @@ import java.nio.file.Paths;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Document.OutputSettings;
+import org.jsoup.nodes.Document.OutputSettings.Syntax;
 import org.jsoup.nodes.Element;
 import org.jsoup.parser.ParseSettings;
 import org.jsoup.parser.Parser;
@@ -83,6 +85,10 @@ public class GrabLabelUsingHTML {
 					//placement="top" container="body" tooltipClass="normal"
 					label.attr("placement","top");label.attr("container","body");
 					label.attr("tooltipClass","normal");
+					OutputSettings os = new OutputSettings();
+					os.prettyPrint(true);
+					os.syntax(Syntax.html);
+					doc.outputSettings(os);
 					
 					writeToFile(doc.body().html(), fileName, outputFolderName);
 				}

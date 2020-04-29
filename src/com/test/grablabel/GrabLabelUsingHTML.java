@@ -48,7 +48,8 @@ public class GrabLabelUsingHTML {
 		
 	}
 	public void writeToFile( String content, String filename,String outputFolderName) {
-		String newFileName = filename.replace(outputFolderName,outputFolderName+"1");
+		//String newFileName = filename.replace(outputFolderName,outputFolderName+"1");
+		String newFileName = filename;
 		Path p = Paths.get(newFileName);
 		
 		try {
@@ -82,7 +83,8 @@ public class GrabLabelUsingHTML {
 					//placement="top" container="body" tooltipClass="normal"
 					label.attr("placement","top");label.attr("container","body");
 					label.attr("tooltipClass","normal");
-					writeToFile(doc.html(), fileName, outputFolderName);
+					
+					writeToFile(doc.body().html(), fileName, outputFolderName);
 				}
 			}
             

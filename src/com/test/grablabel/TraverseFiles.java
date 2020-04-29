@@ -47,7 +47,7 @@ public class TraverseFiles {
 		String startPath = args[0];
 		if (startPath == null)
 			startPath = "D:\\src_repo\\svn\\Newport\\trunk\\moonshot";
-		String outputFolderName = args[1];
+		String outputFolderName = ""; //args[1];
 		// File object
 		File maindir = new File(startPath);
 

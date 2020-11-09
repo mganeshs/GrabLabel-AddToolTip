@@ -17,6 +17,8 @@ import org.jsoup.parser.ParseSettings;
 import org.jsoup.parser.Parser;
 import org.jsoup.select.Elements;
 
+//version 0.9.1
+
 public class GrabLabelUsingHTML {
 
 	public static void main(String[] args) throws IOException {

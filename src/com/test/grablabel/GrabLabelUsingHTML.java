@@ -20,7 +20,7 @@ import org.jsoup.select.Elements;
 public class GrabLabelUsingHTML {
 
 	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stubgg
 		String fileName = "D:\\src_repo\\svn\\Newport\\trunk\\moonshot\\1.0\\frontend\\src\\app\\fleet\\product\\product-detail\\product-detail.component.html";
 		
 		GrabLabelUsingHTML gl = new GrabLabelUsingHTML();
